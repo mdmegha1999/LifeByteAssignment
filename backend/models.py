@@ -14,7 +14,7 @@ class Student(Base):
     
 
 # Create the database engine and session
-engine = create_engine("postgresql://postgres:2010@localhost:5432/postgres")
+engine = create_engine("postgresql://megha:cfW0eAC29CbRvxGYmSmrTz0R4hQY173p@dpg-cicudo98g3n04mfofhpg-a.oregon-postgres.render.com/lifebyte")
 Session = sessionmaker(bind=engine)
 session = Session()
 
