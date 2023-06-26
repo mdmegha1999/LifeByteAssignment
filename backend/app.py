@@ -10,7 +10,7 @@ logger.add(f"{datetime.date.today()}.log")
 
 app = Flask(__name__)
 CORS(app)
-app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:2010@localhost:5432/postgres"
+app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://megha:cfW0eAC29CbRvxGYmSmrTz0R4hQY173p@dpg-cicudo98g3n04mfofhpg-a.oregon-postgres.render.com/lifebyte"
 db = SQLAlchemy(app)
 
 logger.add(sys.stderr, format="{time} {level} {message}",
