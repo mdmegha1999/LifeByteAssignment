@@ -1,0 +1,129 @@
+2023-06-26 01:25:40.402 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(4) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '4', 'name': 'megha', 'age': '45'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:12.323 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(4) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '4', 'name': 'megha', 'age': '45'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:33.038 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '35'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:34.835 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '35'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:38.922 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '35'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:39.508 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '35'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:56.495 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:26:59.275 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:27:00.268 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:27:00.788 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:27:00.854 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:27:04.168 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:27:20.369 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: ""
+LINE 1: INSERT INTO students (id, name, age) VALUES ('2', '', '')
+                                                              ^
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': '', 'age': ''}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-06-26 01:28:09.653 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:28:10.130 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:28:10.722 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "students_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '2', 'name': 'Kinu Smith', 'age': '25'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-06-26 01:28:17.126 | INFO     | __main__:create:46 - created successfully
+2023-06-26 01:31:11.577 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: ""
+LINE 1: INSERT INTO students (id, name, age) VALUES ('', '', '')
+                                                     ^
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '', 'name': '', 'age': ''}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-06-26 01:31:11.778 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: ""
+LINE 1: INSERT INTO students (id, name, age) VALUES ('', '', '')
+                                                     ^
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '', 'name': '', 'age': ''}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-06-26 01:31:12.008 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: ""
+LINE 1: INSERT INTO students (id, name, age) VALUES ('', '', '')
+                                                     ^
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '', 'name': '', 'age': ''}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-06-26 01:31:12.703 | ERROR    | __main__:create:59 - Something went wrong (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: ""
+LINE 1: INSERT INTO students (id, name, age) VALUES ('', '', '')
+                                                     ^
+
+[SQL: INSERT INTO students (id, name, age) VALUES (%(id)s, %(name)s, %(age)s)]
+[parameters: {'id': '', 'name': '', 'age': ''}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-06-26 01:43:37.522 | INFO     | __main__:create:46 - created successfully
+2023-06-26 01:43:53.717 | INFO     | __main__:create:46 - created successfully
+2023-06-26 01:44:16.366 | INFO     | __main__:create:46 - created successfully
